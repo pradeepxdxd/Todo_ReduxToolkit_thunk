@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "name": "Pradeep",
+      "msg": "The task is completed",
+      "id": 1
+    },
+    {
+      "name": "Chandan",
+      "msg": "I have to go to the collage",
+      "id": 2
+    }
+  ]
+}
